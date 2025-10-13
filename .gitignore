@@ -1,20 +1,26 @@
+# Node modülleri
 node_modules/
 
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
+# Build klasörü (Vite)
 dist/
 
+# Ortam değişkenleri
+.env
+
+# React bileşenleri (gizli tut)
+src/App.jsx
+src/components/
+
+# IDE / editör ayarları
 .vscode/
 .idea/
 *.swp
 
+# Log dosyaları
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Sistem dosyaları
 .DS_Store
 Thumbs.db
-
-.env
-
-#src files
-src/App.jsx
-src/components/
