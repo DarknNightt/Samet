@@ -11,6 +11,7 @@ dist/
 src/App.jsx
 src/components/
 src/data/
+public/
 
 # IDE / editör ayarları
 .vscode/
