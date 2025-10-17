@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Custom small helpers */
+.transition-all { transition: all .2s ease-in-out; }
+.shadow-lg { box-shadow: 0 10px 30px rgba(2,6,23,0.6); }
+.scale-102 { transform: scale(1.02); }
+

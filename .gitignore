@@ -10,6 +10,7 @@ dist/
 # React bileşenleri (gizli tut)
 src/App.jsx
 src/components/
+src/data/
 
 # IDE / editör ayarları
 .vscode/
